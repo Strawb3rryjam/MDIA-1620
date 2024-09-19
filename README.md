@@ -20,4 +20,4 @@ _for MDIA-1620 class_
 ## *word for how you're feeling*:cowboy_hat_face:	
 1. enthusiastic (tired)
 
-##litty all the day
+## litty all the day
