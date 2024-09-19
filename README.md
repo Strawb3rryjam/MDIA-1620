@@ -17,6 +17,8 @@ _for MDIA-1620 class_
 1. how to use github
 2. how to documment versioning 
 
+##litty 
+
 ## *word for how you're feeling*:cowboy_hat_face:	
 1. enthusiastic (tired)
 
