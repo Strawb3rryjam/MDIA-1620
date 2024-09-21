@@ -17,9 +17,22 @@ _for MDIA-1620 class_
 1. how to use github
 2. how to documment versioning 
 
-##litty 
 
 ## *word for how you're feeling*:cowboy_hat_face:	
 1. enthusiastic (tired)
 
-## litty all the day
+
+# WEEK 3 
+
+## *3 things you learned* :sunglasses:
+1. The difference between git and github
+2. How to push code onto github
+3. How to open github files into vscode
+   
+## *2 things confusing*:raised_eyebrow:
+1. pushing files on my repo
+2. remembering commands in terminal 
+
+
+## *1 word for how you're feeling*:fearful:
+1. NERVOUS!! 
