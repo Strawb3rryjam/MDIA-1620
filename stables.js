@@ -1,34 +1,11 @@
-
-console.log("horse are great!");
-
-let horseName = "Jerry"; 
-
-horseName ="Charlie";
-
-let horseAge = 5;
-
-//boolean
-let isHorseInStable = true; 
-
-console.log(horseName);
-console.log(horseAge);
-
-console.log(isHorseInStable);
-
-/**YEEE HAWW
- * tee hee
- */
-
-const STABLE_MONTHLY_FEE = 100; 
-console.log(STABLE_MONTHLY_FEE + STABLE_MONTHLY_FEE + STABLE_MONTHLY_FEE);
-console.log(STABLE_MONTHLY_FEE * 3);
-console.log(STABLE_MONTHLY_FEE ** STABLE_MONTHLY_FEE);
+/**horse*/
+let nameHorse = "Caitlyn";
+let horseName2 = "Cait";
+console.log(`This is my horse ${nameHorse} and her nickname is ${horseName2}.`);
 
 
-let horseAgein10Years = 10;
-let horseAgein20Years =  (10 +  horseAgein10Years);
-console.log(horseAgein20Years);
+/**fees */
+const STABLE_MONTH_FEE = 100;
+let saved_MONEY = (100 * 3)/10;
 
-console.log(horseName + " is the name of the horse");
-let rentIntroduction = `It costs ${STABLE_MONTHLY_FEE} to board ${horseName}`;
-console.log(rentIntroduction);
+console.log(`You've saved $${saved_MONEY} with a 10% discount applied with your 3 month stay at the stables.`);
