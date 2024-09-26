@@ -1,20 +1,11 @@
+/**horse*/
+let nameHorse = "Caitlyn";
+let horseName2 = "Cait";
+console.log(`This is my horse ${nameHorse} and her nickname is ${horseName2}.`);
 
-console.log("horse are great!");
 
-let horseName = "Jerry"; 
+/**fees */
+const STABLE_MONTH_FEE = 100;
+let saved_MONEY = (100 * 3)/10;
 
-horseName ="Charlie";
-
-let horseAge = 5;
-
-//boolean
-let isHorseInStable = true; 
-
-console.log(horseName);
-console.log(horseAge);
-
-console.log(isHorseInStable);
-
-/**YEEE HAWW
- * tee hee
- */
+console.log(`You've saved $${saved_MONEY} with a 10% discount applied with your 3 month stay at the stables.`);
