@@ -36,3 +36,21 @@ _for MDIA-1620 class_
 
 ## *1 word for how you're feeling*:fearful:
 1. NERVOUS!! 
+
+# WEEK 6
+
+## *3 things I have a solid understanding*:alien:
+1. conditional statements
+2. array indexes 
+3. array methods
+
+
+## *3 things confusing*:confounded:
+1. pushing files onto github
+2. organizing code 
+3. using array items with different variables
+
+## *Analogy for I am feeling*
+- I feel like a seed being watered with knowledge, slowly sprouting into something full of potential!
+
+<iframe src="https://giphy.com/embed/jUTHzkkD3Rsfrm6W4p" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/doodles-happy-flower-thedoodles-jUTHzkkD3Rsfrm6W4p">via GIPHY</a></p>
