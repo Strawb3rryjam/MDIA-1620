@@ -52,5 +52,3 @@ _for MDIA-1620 class_
 
 ## *Analogy for I am feeling*
 - I feel like a seed being watered with knowledge, slowly sprouting into something full of potential!
-
-<iframe src="https://giphy.com/embed/jUTHzkkD3Rsfrm6W4p" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/doodles-happy-flower-thedoodles-jUTHzkkD3Rsfrm6W4p">via GIPHY</a></p>
